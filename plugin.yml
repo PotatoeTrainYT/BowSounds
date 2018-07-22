@@ -1,0 +1,8 @@
+name: BowSounds
+description: Make a sound when you hit someone with a bow
+
+main: BowSounds\Main
+version: 1.0.0
+api: 3.0.0
+
+author: Potatoe
